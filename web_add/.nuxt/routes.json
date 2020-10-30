@@ -1,0 +1,16 @@
+[
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "/mnt/e/GitHub/sotsuten2021web/web/pages/contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_b495d6ac"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/mnt/e/GitHub/sotsuten2021web/web/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_23e244dc"
+  }
+]
