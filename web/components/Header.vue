@@ -14,7 +14,7 @@ div.header
 
 <script>
 export default {
-    
+
 }
 </script>
 
@@ -22,7 +22,7 @@ export default {
 <style lang="sass" scoped>
 @media screen and (max-width: 700px) //スマホ
   .header
-    
+
 
 @media screen and (min-width: 701px) //パソコン
   .header
